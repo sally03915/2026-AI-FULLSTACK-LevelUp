@@ -84,16 +84,14 @@
     ]
   },
   "이일두": {
-    "xp": 30,
+    "xp": 10,
     "level": 1,
     "attendanceDays": 1,
-    "assignmentsCompleted": 1,
+    "assignmentsCompleted": 0,
     "totalAssignments": 1,
     "contributions": 0,
     "presentations": 0,
-    "badges": [
-      "과제왕"
-    ]
+    "badges": []
   },
   "임채연": {
     "xp": 30,
@@ -108,40 +106,34 @@
     ]
   },
   "장영탁": {
-    "xp": 30,
+    "xp": 10,
     "level": 1,
     "attendanceDays": 1,
-    "assignmentsCompleted": 1,
+    "assignmentsCompleted": 0,
     "totalAssignments": 1,
     "contributions": 0,
     "presentations": 0,
-    "badges": [
-      "과제왕"
-    ]
+    "badges": []
   },
   "정수정": {
-    "xp": 30,
+    "xp": 10,
     "level": 1,
     "attendanceDays": 1,
-    "assignmentsCompleted": 1,
+    "assignmentsCompleted": 0,
     "totalAssignments": 1,
     "contributions": 0,
     "presentations": 0,
-    "badges": [
-      "과제왕"
-    ]
+    "badges": []
   },
   "최다영": {
-    "xp": 30,
+    "xp": 10,
     "level": 1,
     "attendanceDays": 1,
-    "assignmentsCompleted": 1,
+    "assignmentsCompleted": 0,
     "totalAssignments": 1,
     "contributions": 0,
     "presentations": 0,
-    "badges": [
-      "과제왕"
-    ]
+    "badges": []
   },
   "최도현": {
     "xp": 0,
