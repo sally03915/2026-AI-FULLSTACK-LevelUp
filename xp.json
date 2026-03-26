@@ -1,27 +1,180 @@
 {
-  "홍길동": {
-    "xp": 90,
+  "김보라": {
+    "xp": 30,
     "level": 1,
-    "attendanceDays": 9,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
     "badges": [
-      "꾸준함의 초심자"
+      "과제왕"
     ]
   },
-  "김철수": {
-    "xp": 120,
-    "level": 2,
-    "attendanceDays": 12,
+  "김욱진": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
     "badges": [
-      "꾸준함의 초심자",
-      "개근왕"
+      "과제왕"
     ]
   },
-  "이영희": {
-    "xp": 60,
+  "김주엽": {
+    "xp": 30,
     "level": 1,
-    "attendanceDays": 6,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
     "badges": [
-      "꾸준함의 초심자"
+      "과제왕"
+    ]
+  },
+  "김현미": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "문대원": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "손예진": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "손창기": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "이일두": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "임채연": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "장영탁": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "정수정": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "최다영": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "최도현": {
+    "xp": 0,
+    "level": 1,
+    "attendanceDays": 0,
+    "assignmentsCompleted": 0,
+    "totalAssignments": 0,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": []
+  },
+  "최윤정": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
+    ]
+  },
+  "하혜원": {
+    "xp": 30,
+    "level": 1,
+    "attendanceDays": 1,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 0,
+    "presentations": 0,
+    "badges": [
+      "과제왕"
     ]
   }
 }
