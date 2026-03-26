@@ -1,56 +1,73 @@
 const fs = require("fs");
 
-// 안전하게 JSON 읽기 함수
 function safeReadJSON(path) {
   try {
-    if (!fs.existsSync(path)) return {};
+    if (!fs.existsSync(path)) return [];
     const data = fs.readFileSync(path, "utf-8");
-    return data && data.trim() !== "" ? JSON.parse(data) : {};
+    return data && data.trim() !== "" ? JSON.parse(data) : [];
   } catch (e) {
     console.warn(`⚠️ ${path} 읽기 실패:`, e.message);
-    return {};
+    return [];
   }
 }
 
 const attendanceFile = "attendance/records.json";
 const xpFile = "xp.json";
 
-// 출석 기록과 XP 데이터 읽기
-const attendance = safeReadJSON(attendanceFile);
-let xpData = safeReadJSON(xpFile);
+const records = safeReadJSON(attendanceFile);
+let xpData = {};
 
-// 출석 기록이 배열이 아닐 경우 대비
-if (!Array.isArray(attendance)) {
-  console.error("❌ 출석 기록이 올바른 배열 형식이 아닙니다.");
-  process.exit(1);
-}
+records.forEach(student => {
+  const { name, attendanceDays, assignmentsCompleted, totalAssignments, contributions, presentations } = student;
 
-// 학생별 XP/뱃지 계산
-attendance.forEach(student => {
-  if (!xpData[student.name]) {
-    xpData[student.name] = { xp: 0, level: 1, attendanceDays: 0, badges: [] };
+  // ✅ XP 계산
+  const xp = (attendanceDays * 10) +
+             (assignmentsCompleted * 20) +
+             (contributions * 10) +
+             (presentations * 20);
+
+  const level = Math.min(Math.floor(xp / 125) + 1, 10);
+
+  xpData[name] = {
+    xp,
+    level,
+    attendanceDays,
+    assignmentsCompleted,
+    totalAssignments,
+    contributions,
+    presentations,
+    badges: []
+  };
+
+  // ✅ 뱃지 조건
+  let badges = [];
+
+  // 출석 관련
+  if (attendanceDays >= 30) badges.push("개근왕");
+  if (attendanceDays >= 60) badges.push("출석마스터");
+  if (attendanceDays >= 133) badges.push("끝까지함께");
+
+  // 과제 관련
+  if (totalAssignments > 0) {
+    const ratio = assignmentsCompleted / totalAssignments;
+    if (ratio === 1) badges.push("과제왕");
+    else if (ratio >= 0.8) badges.push("성실제출자");
   }
+  if (xp >= 500) badges.push("챌린지완료");
 
-  // 출석 업데이트
-  xpData[student.name].attendanceDays = student.attendanceDays || 0;
-  xpData[student.name].xp = xpData[student.name].attendanceDays * 10;
+  // 협업/활동 관련
+  if (attendanceDays >= 15) badges.push("팀플마스터");
+  if (contributions >= 10) badges.push("코드기여자");
+  if (presentations >= 3) badges.push("발표왕");
 
-  // 뱃지 조건
-  if (student.attendanceDays >= 7 && !xpData[student.name].badges.includes("꾸준함의 초심자")) {
-    xpData[student.name].badges.push("꾸준함의 초심자");
-  }
-  if (student.attendanceDays >= 30 && !xpData[student.name].badges.includes("개근왕")) {
-    xpData[student.name].badges.push("개근왕");
-  }
-  if (student.attendanceDays >= 100 && !xpData[student.name].badges.includes("꾸준함의 달인")) {
-    xpData[student.name].badges.push("꾸준함의 달인");
-  }
+  // 성장 관련
+  if (xp >= 200) badges.push("성장중");
+  if (level >= 5) badges.push("레벨업마스터");
+  if (level >= 10) badges.push("최종보스클리어");
 
-  // 레벨업 조건 (XP 기준)
-  xpData[student.name].level = Math.floor(xpData[student.name].xp / 100) + 1;
+  xpData[name].badges = badges;
 });
 
-// 업데이트된 데이터 저장
 try {
   fs.writeFileSync(xpFile, JSON.stringify(xpData, null, 2));
   console.log("✅ XP와 뱃지가 업데이트되었습니다!");
