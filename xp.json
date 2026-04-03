@@ -1,167 +1,171 @@
 {
   "김보라": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 180,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
     ]
   },
   "김욱진": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 180,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
     ]
   },
   "김주엽": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 180,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
     ]
   },
   "김현미": {
-    "xp": 130,
+    "xp": 190,
     "level": 2,
-    "attendanceDays": 6,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 5,
+    "contributions": 10,
     "presentations": 0,
     "badges": [
-      "과제왕"
+      "과제왕",
+      "코드기여자"
     ]
   },
   "문대원": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 180,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
     ]
   },
   "손예진": {
-    "xp": 110,
-    "level": 1,
-    "attendanceDays": 5,
+    "xp": 170,
+    "level": 2,
+    "attendanceDays": 6,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
     ]
   },
   "손창기": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 180,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
     ]
   },
   "이일두": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 180,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
     ]
   },
   "임채연": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 180,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
     ]
   },
   "장영탁": {
-    "xp": 130,
+    "xp": 190,
     "level": 2,
-    "attendanceDays": 6,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 5,
+    "contributions": 10,
     "presentations": 0,
     "badges": [
-      "과제왕"
+      "과제왕",
+      "코드기여자"
     ]
   },
   "정수정": {
-    "xp": 130,
+    "xp": 190,
     "level": 2,
-    "attendanceDays": 6,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 5,
+    "contributions": 10,
     "presentations": 0,
     "badges": [
-      "과제왕"
+      "과제왕",
+      "코드기여자"
     ]
   },
   "최다영": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 180,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
     ]
   },
   "최윤정": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 190,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 10,
     "presentations": 0,
     "badges": [
-      "과제왕"
+      "과제왕",
+      "코드기여자"
     ]
   },
   "하혜원": {
-    "xp": 120,
-    "level": 1,
-    "attendanceDays": 6,
+    "xp": 180,
+    "level": 2,
+    "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 4,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
       "과제왕"
