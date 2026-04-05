@@ -37,16 +37,15 @@
     ]
   },
   "김현미": {
-    "xp": 190,
+    "xp": 180,
     "level": 2,
     "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 10,
+    "contributions": 9,
     "presentations": 0,
     "badges": [
-      "과제왕",
-      "코드기여자"
+      "과제왕"
     ]
   },
   "문대원": {
@@ -98,15 +97,16 @@
     ]
   },
   "임채연": {
-    "xp": 180,
+    "xp": 190,
     "level": 2,
     "attendanceDays": 7,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 9,
+    "contributions": 10,
     "presentations": 0,
     "badges": [
-      "과제왕"
+      "과제왕",
+      "코드기여자"
     ]
   },
   "장영탁": {

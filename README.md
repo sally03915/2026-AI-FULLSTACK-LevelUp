@@ -38,7 +38,7 @@ Level 2 | 🟩🟩 (2)
 
 ## 🎓 김현미
 <!-- 김현미-badge-start -->
-![출석뱃지](https://img.shields.io/badge/출석-7일-blue?style=flat) ![XP](https://img.shields.io/badge/XP-190-yellow?style=flat) ![Level](https://img.shields.io/badge/Level-2-orange?style=flat) ![Badge-과제왕](https://img.shields.io/badge/Badge-%EA%B3%BC%EC%A0%9C%EC%99%95-purple?style=flat) ![Badge-코드기여자](https://img.shields.io/badge/Badge-%EC%BD%94%EB%93%9C%EA%B8%B0%EC%97%AC%EC%9E%90-brown?style=flat)
+![출석뱃지](https://img.shields.io/badge/출석-7일-blue?style=flat) ![XP](https://img.shields.io/badge/XP-180-yellow?style=flat) ![Level](https://img.shields.io/badge/Level-2-orange?style=flat) ![Badge-과제왕](https://img.shields.io/badge/Badge-%EA%B3%BC%EC%A0%9C%EC%99%95-purple?style=flat)
 
 **레벨 그래프**
 ```
@@ -98,7 +98,7 @@ Level 2 | 🟩🟩 (2)
 
 ## 🎓 임채연
 <!-- 임채연-badge-start -->
-![출석뱃지](https://img.shields.io/badge/출석-7일-blue?style=flat) ![XP](https://img.shields.io/badge/XP-180-yellow?style=flat) ![Level](https://img.shields.io/badge/Level-2-orange?style=flat) ![Badge-과제왕](https://img.shields.io/badge/Badge-%EA%B3%BC%EC%A0%9C%EC%99%95-purple?style=flat)
+![출석뱃지](https://img.shields.io/badge/출석-7일-blue?style=flat) ![XP](https://img.shields.io/badge/XP-190-yellow?style=flat) ![Level](https://img.shields.io/badge/Level-2-orange?style=flat) ![Badge-과제왕](https://img.shields.io/badge/Badge-%EA%B3%BC%EC%A0%9C%EC%99%95-purple?style=flat) ![Badge-코드기여자](https://img.shields.io/badge/Badge-%EC%BD%94%EB%93%9C%EA%B8%B0%EC%97%AC%EC%9E%90-brown?style=flat)
 
 **레벨 그래프**
 ```
