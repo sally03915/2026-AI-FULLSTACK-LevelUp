@@ -1,7 +1,7 @@
 [
   {
     "name": "김보라",
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
     "contributions": 12,
@@ -9,7 +9,7 @@
   },
   {
     "name": "김욱진",
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
    "contributions": 11,
@@ -17,7 +17,7 @@
   },
   {
     "name": "김주엽",  
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
    "contributions": 12,
@@ -25,7 +25,7 @@
   },
   {
     "name": "김현미",
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
    "contributions": 11,
@@ -33,7 +33,7 @@
   },
   {
     "name": "문대원",
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
    "contributions": 11,
@@ -41,7 +41,7 @@
   },
   {
     "name": "손예진",  
-    "attendanceDays": 9,
+    "attendanceDays": 10, 
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
    "contributions": 11,
@@ -49,7 +49,7 @@
   },
   {
     "name": "손창기",
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
    "contributions": 11,
@@ -57,7 +57,7 @@
   },
   {
     "name": "이일두",
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
    "contributions": 11,
@@ -65,7 +65,7 @@
   },
   {
     "name": "임채연",  
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
     "contributions": 12,
@@ -73,7 +73,7 @@
   },
   {
     "name": "장영탁",
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
     "contributions": 12,
@@ -81,7 +81,7 @@
   },
   {
     "name": "정수정",
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
     "contributions": 12,
@@ -89,7 +89,7 @@
   },
   {
     "name": "최다영",  
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
    "contributions": 11,
@@ -97,7 +97,7 @@
   },
   {
     "name": "최윤정",
- "attendanceDays": 10,
+  "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
     "contributions": 13,
@@ -105,7 +105,7 @@
   },
   {
     "name": "하혜원",  
-    "attendanceDays": 10,
+     "attendanceDays": 11,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
     "contributions": 12,
