@@ -1,145 +1,5 @@
 {
   "김보라": {
-    "xp": 340,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 18,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "김욱진": {
-    "xp": 350,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 19,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "김주엽": {
-    "xp": 330,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 17,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "김현미": {
-    "xp": 320,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 16,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "문대원": {
-    "xp": 330,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 17,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "손예진": {
-    "xp": 330,
-    "level": 3,
-    "attendanceDays": 13,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 18,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "손창기": {
-    "xp": 320,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 16,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "이일두": {
-    "xp": 320,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 16,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "임채연": {
-    "xp": 340,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 18,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "장영탁": {
-    "xp": 350,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 19,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "정수정": {
     "xp": 360,
     "level": 3,
     "attendanceDays": 14,
@@ -153,21 +13,7 @@
       "성장중"
     ]
   },
-  "최다영": {
-    "xp": 320,
-    "level": 3,
-    "attendanceDays": 14,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 16,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "최윤정": {
+  "김욱진": {
     "xp": 370,
     "level": 3,
     "attendanceDays": 14,
@@ -181,13 +27,167 @@
       "성장중"
     ]
   },
-  "하혜원": {
-    "xp": 310,
+  "김주엽": {
+    "xp": 350,
+    "level": 3,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 19,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "김현미": {
+    "xp": 350,
+    "level": 3,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 19,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "문대원": {
+    "xp": 350,
+    "level": 3,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 19,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "손예진": {
+    "xp": 340,
     "level": 3,
     "attendanceDays": 13,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 16,
+    "contributions": 19,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "손창기": {
+    "xp": 330,
+    "level": 3,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 17,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "이일두": {
+    "xp": 340,
+    "level": 3,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 18,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "임채연": {
+    "xp": 350,
+    "level": 3,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 19,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "장영탁": {
+    "xp": 360,
+    "level": 3,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 20,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "정수정": {
+    "xp": 380,
+    "level": 4,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 22,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "최다영": {
+    "xp": 360,
+    "level": 3,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 20,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "최윤정": {
+    "xp": 410,
+    "level": 4,
+    "attendanceDays": 14,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 25,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "하혜원": {
+    "xp": 320,
+    "level": 3,
+    "attendanceDays": 13,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 17,
     "presentations": 0,
     "badges": [
       "과제왕",
