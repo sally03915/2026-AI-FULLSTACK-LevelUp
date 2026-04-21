@@ -1,5 +1,65 @@
 {
   "김보라": {
+    "xp": 430,
+    "level": 4,
+    "attendanceDays": 16,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 25,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "팀플마스터",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "김욱진": {
+    "xp": 440,
+    "level": 4,
+    "attendanceDays": 16,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 26,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "팀플마스터",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "김주엽": {
+    "xp": 420,
+    "level": 4,
+    "attendanceDays": 16,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 24,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "팀플마스터",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "김현미": {
+    "xp": 400,
+    "level": 4,
+    "attendanceDays": 16,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 22,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "팀플마스터",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "문대원": {
     "xp": 410,
     "level": 4,
     "attendanceDays": 16,
@@ -14,73 +74,13 @@
       "성장중"
     ]
   },
-  "김욱진": {
-    "xp": 420,
-    "level": 4,
-    "attendanceDays": 16,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 24,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "팀플마스터",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "김주엽": {
-    "xp": 400,
-    "level": 4,
-    "attendanceDays": 16,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 22,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "팀플마스터",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "김현미": {
-    "xp": 380,
-    "level": 4,
-    "attendanceDays": 16,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 20,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "팀플마스터",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "문대원": {
-    "xp": 390,
-    "level": 4,
-    "attendanceDays": 16,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 21,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "팀플마스터",
-      "코드기여자",
-      "성장중"
-    ]
-  },
   "손예진": {
-    "xp": 390,
+    "xp": 410,
     "level": 4,
     "attendanceDays": 15,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 22,
+    "contributions": 24,
     "presentations": 0,
     "badges": [
       "과제왕",
@@ -90,12 +90,12 @@
     ]
   },
   "손창기": {
-    "xp": 370,
-    "level": 3,
+    "xp": 390,
+    "level": 4,
     "attendanceDays": 16,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 19,
+    "contributions": 21,
     "presentations": 0,
     "badges": [
       "과제왕",
@@ -105,12 +105,12 @@
     ]
   },
   "이일두": {
-    "xp": 390,
+    "xp": 410,
     "level": 4,
     "attendanceDays": 16,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 21,
+    "contributions": 23,
     "presentations": 0,
     "badges": [
       "과제왕",
@@ -120,12 +120,12 @@
     ]
   },
   "임채연": {
-    "xp": 390,
+    "xp": 410,
     "level": 4,
     "attendanceDays": 16,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 21,
+    "contributions": 23,
     "presentations": 0,
     "badges": [
       "과제왕",
@@ -135,21 +135,6 @@
     ]
   },
   "장영탁": {
-    "xp": 400,
-    "level": 4,
-    "attendanceDays": 16,
-    "assignmentsCompleted": 1,
-    "totalAssignments": 1,
-    "contributions": 22,
-    "presentations": 0,
-    "badges": [
-      "과제왕",
-      "팀플마스터",
-      "코드기여자",
-      "성장중"
-    ]
-  },
-  "정수정": {
     "xp": 420,
     "level": 4,
     "attendanceDays": 16,
@@ -164,13 +149,28 @@
       "성장중"
     ]
   },
-  "최다영": {
-    "xp": 400,
+  "정수정": {
+    "xp": 440,
     "level": 4,
     "attendanceDays": 16,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 22,
+    "contributions": 26,
+    "presentations": 0,
+    "badges": [
+      "과제왕",
+      "팀플마스터",
+      "코드기여자",
+      "성장중"
+    ]
+  },
+  "최다영": {
+    "xp": 420,
+    "level": 4,
+    "attendanceDays": 16,
+    "assignmentsCompleted": 1,
+    "totalAssignments": 1,
+    "contributions": 24,
     "presentations": 0,
     "badges": [
       "과제왕",
@@ -180,12 +180,12 @@
     ]
   },
   "최윤정": {
-    "xp": 470,
+    "xp": 490,
     "level": 4,
     "attendanceDays": 16,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 29,
+    "contributions": 31,
     "presentations": 0,
     "badges": [
       "과제왕",
@@ -195,12 +195,12 @@
     ]
   },
   "하혜원": {
-    "xp": 360,
-    "level": 3,
+    "xp": 380,
+    "level": 4,
     "attendanceDays": 15,
     "assignmentsCompleted": 1,
     "totalAssignments": 1,
-    "contributions": 19,
+    "contributions": 21,
     "presentations": 0,
     "badges": [
       "과제왕",
