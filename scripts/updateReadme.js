@@ -43,7 +43,18 @@ const badgeColorMap = {
   "지식 공유자": "orange",
   "아이디어 메이커": "pink",
   "챌린지 헌터": "red",
-  "커뮤니티 스타": "gold"
+  "커뮤니티 스타": "gold" , 
+  "출석 챌린지": "blue",
+  "과제 챌린지": "purple",
+  "협업 챌린지": "lightblue",
+  "코드 챌린지": "brown",
+  "발표 챌린지": "yellow",
+  "XP 챌린지": "red",
+  "스피드런 챌린지": "orange",
+  "올라운더 챌린지": "teal",
+  "마스터 챌린지": "black",
+  "커뮤니티 챌린지": "gold"
+
 };
 
 Object.keys(xpData).forEach(student => {
