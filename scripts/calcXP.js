@@ -18,7 +18,20 @@ const records = safeReadJSON(attendanceFile);
 let xpData = {};
 
 records.forEach(student => {
-  const { name, attendanceDays, assignmentsCompleted, totalAssignments, contributions, presentations } = student;
+  const {
+    name,
+    attendanceDays = 0,
+    assignmentsCompleted = 0,
+    totalAssignments = 0,
+    contributions = 0,
+    presentations = 0,
+    blogsWritten = 0,
+    tutorialsShared = 0,
+    bugsFixed = 0,
+    studySessions = 0,
+    ideasProposed = 0,
+    likesReceived = 0
+  } = student;
 
   // ✅ XP 계산
   const xp = (attendanceDays * 10) +
@@ -36,6 +49,12 @@ records.forEach(student => {
     totalAssignments,
     contributions,
     presentations,
+    blogsWritten,
+    tutorialsShared,
+    bugsFixed,
+    studySessions,
+    ideasProposed,
+    likesReceived,
     badges: []
   };
 
@@ -64,6 +83,23 @@ records.forEach(student => {
   if (xp >= 200) badges.push("성장중");
   if (level >= 5) badges.push("레벨업마스터");
   if (level >= 10) badges.push("최종보스클리어");
+
+  // ✅ 추천 챌린지 관련
+  if (blogsWritten >= 5) badges.push("블로그왕");
+  if (tutorialsShared >= 2) badges.push("튜토리얼 제작자");
+  if (bugsFixed >= 5) badges.push("디버깅 마스터");
+  if (studySessions >= 3) badges.push("스터디 리더");
+  if (presentations >= 2) badges.push("지식 공유자");
+  if (ideasProposed >= 3) badges.push("아이디어 메이커");
+
+  // 챌린지 헌터: 추천 챌린지 중 5개 이상 달성
+  const challengeCount = badges.filter(b =>
+    ["블로그왕","튜토리얼 제작자","디버깅 마스터","스터디 리더","지식 공유자","아이디어 메이커"].includes(b)
+  ).length;
+  if (challengeCount >= 5) badges.push("챌린지 헌터");
+
+  // 커뮤니티 스타
+  if (likesReceived >= 50) badges.push("커뮤니티 스타");
 
   xpData[name].badges = badges;
 });

@@ -34,7 +34,16 @@ const badgeColorMap = {
   "발표왕": "yellow",
   "성장중": "pink",
   "레벨업마스터": "teal",
-  "최종보스클리어": "black"
+  "최종보스클리어": "black",
+  // ✅ 추천 챌린지 색상 추가
+  "블로그왕": "violet",
+  "튜토리얼 제작자": "cyan",
+  "디버깅 마스터": "darkgreen",
+  "스터디 리더": "navy",
+  "지식 공유자": "orange",
+  "아이디어 메이커": "pink",
+  "챌린지 헌터": "red",
+  "커뮤니티 스타": "gold"
 };
 
 Object.keys(xpData).forEach(student => {
