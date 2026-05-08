@@ -107,7 +107,6 @@ records.forEach(student => {
   if (student.codeReviews >= 3) badges.push("커뮤니티 챌린지"); // 코드 리뷰/멘토링 3회 이상
 
 
-
   // 챌린지 헌터: 추천 챌린지 중 5개 이상 달성
   const challengeCount = badges.filter(b =>
     ["블로그왕","튜토리얼 제작자","디버깅 마스터","스터디 리더","지식 공유자","아이디어 메이커"].includes(b)
